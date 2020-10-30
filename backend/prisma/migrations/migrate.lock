@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20201030020359-initial
+20201030020636-make-token-optional
+20201030021308-make-username-name-unique-and-index-it

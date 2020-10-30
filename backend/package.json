@@ -21,10 +21,14 @@
     "typescript": "^3.8.2"
   },
   "dependencies": {
+    "@prisma/cli": "2.10.1",
+    "@prisma/client": "2.10.1",
     "@types/aws-lambda": "^8.10.44",
     "aws-lambda": "^1.0.5",
     "bcrypt": "^5.0.0",
     "cookie": "^0.4.1",
+    "fastify": "^3.7.0",
+    "fastify-plugin": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
     "mysql": "^2.18.1",
     "pg": "^7.18.2",
